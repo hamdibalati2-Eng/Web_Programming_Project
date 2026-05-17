@@ -175,7 +175,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ### Hamdi Balati
 - GitHub: [@hamdibalati2-Eng](https://github.com/hamdibalati2-Eng)
 
-### AbdAlrahman
+### AbdAlrahman Abd Alfatah
 - GitHub: [@AbdAlrahman-Sec](https://github.com/AbdAlrahman-Sec)
 
 ## 🙏 Acknowledgments
