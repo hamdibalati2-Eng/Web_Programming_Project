@@ -1,0 +1,41 @@
+# Environment and config files with secrets
+.env
+config.php
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Dependencies (if any)
+node_modules/
+vendor/
+
+# Uploaded images (keep folder structure but ignore contents)
+recipe_images/*
+!recipe_images/.gitkeep
+
+# Cache
+*.cache
+cache/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Frontend folder (old backup files)
+frontend/

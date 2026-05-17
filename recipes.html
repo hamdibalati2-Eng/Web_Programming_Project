@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipes - MealPlanner</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="recipes.css">
+</head>
+
+<body>
+    <header>
+        <div class="header-top">
+            <div class="logo">
+                <i class="fas fa-utensils"></i>
+                <span>MealPlanner</span>
+            </div>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <nav class="main-nav">
+                <a href="index.html" data-page="home">Home</a>
+                <a href="recipes.html" data-page="recipes">Recipes</a>
+                <a href="meal-planner.html" data-page="planner">Meal Planner</a>
+                <a href="shopping-list.html" data-page="shopping">Shopping List</a>
+                <a href="profile.html" data-page="profile" id="profileLink" style="display: none;">Profile</a>
+                <a href="favorites.html" data-page="favorites" id="favoritesLink" style="display: none;">
+                    <i class="fas fa-heart"></i> Favorites
+                    <span id="favoritesCount" style="display: none;"></span>
+                </a>
+            </nav>
+            <div class="auth-buttons" id="authButtons">
+                <button class="btn-login">Login</button>
+                <button class="btn-signup">Sign Up</button>
+            </div>
+            <div class="user-menu" id="userMenu" style="display: none;">
+                <span id="userNameDisplay"></span>
+                <a href="profile.html" class="btn-profile">Profile</a>
+                <button class="btn-logout" id="logoutBtn">Logout</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="recipes-page">
+        <!-- Filter Sidebar -->
+        <aside class="filter-sidebar" id="filterSidebar">
+            <div class="filter-header">
+                <h2><i class="fas fa-filter"></i> Filters</h2>
+                <button class="filter-close" id="filterClose" aria-label="Close filters">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+
+            <div class="filter-content">
+                <!-- Search Bar -->
+                <div class="filter-section">
+                    <label class="filter-label">
+                        <i class="fas fa-search"></i> Search Recipes
+                    </label>
+                    <div class="search-input-wrapper">
+                        <input type="text" id="recipeSearch" class="filter-search" placeholder="Search by name...">
+                        <button class="search-clear" id="searchClear" aria-label="Clear search">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Category Filter -->
+                <div class="filter-section">
+                    <label class="filter-label">
+                        <i class="fas fa-tags"></i> Category
+                    </label>
+                    <div class="checkbox-group" id="categoryFilters"></div>
+                </div>
+
+                <!-- Area/Cuisine Filter -->
+                <div class="filter-section">
+                    <label class="filter-label">
+                        <i class="fas fa-globe"></i> Cuisine/Area
+                    </label>
+                    <div class="checkbox-group" id="areaFilters"></div>
+                </div>
+
+                <!-- Ingredients Filter -->
+                <div class="filter-section">
+                    <label class="filter-label">
+                        <i class="fas fa-carrot"></i> Ingredients
+                    </label>
+                    <div class="ingredient-input-wrapper">
+                        <input type="text" id="ingredientInput" class="ingredient-input"
+                            placeholder="Type ingredient...">
+                        <div class="ingredient-autocomplete" id="ingredientAutocomplete"></div>
+                    </div>
+                    <div class="ingredient-mode-toggle">
+                        <button class="ingredient-mode-btn active" data-mode="include">
+                            <i class="fas fa-plus-circle"></i> Include
+                        </button>
+                        <button class="ingredient-mode-btn" data-mode="exclude">
+                            <i class="fas fa-minus-circle"></i> Exclude
+                        </button>
+                    </div>
+                    <div class="ingredient-tags" id="ingredientTags">
+                        <div class="ingredient-tags-include">
+                            <small>Include:</small>
+                            <div class="tag-list" id="includeTags"></div>
+                        </div>
+                        <div class="ingredient-tags-exclude">
+                            <small>Exclude:</small>
+                            <div class="tag-list" id="excludeTags"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Filter Actions -->
+                <div class="filter-actions">
+                    <button class="btn-clear-filters" id="clearAllFilters">
+                        <i class="fas fa-eraser"></i> Clear All
+                    </button>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <div class="recipes-content">
+            <!-- Top Bar -->
+            <div class="recipes-topbar">
+                <div class="topbar-left">
+                    <button class="filter-toggle" id="filterToggle">
+                        <i class="fas fa-filter"></i> Filters
+                        <span class="filter-badge" id="activeFilterCount">0</span>
+                    </button>
+                    <div class="results-count" id="resultsCount">Loading recipes...</div>
+                </div>
+                <div class="topbar-right">
+                    <div class="view-toggle">
+                        <button class="view-btn active" data-view="grid" aria-label="Grid view">
+                            <i class="fas fa-th"></i>
+                        </button>
+                        <button class="view-btn" data-view="list" aria-label="List view">
+                            <i class="fas fa-list"></i>
+                        </button>
+                    </div>
+                    <select class="sort-select" id="sortSelect">
+                        <option value="name_asc">A-Z (Alphabetical)</option>
+                        <option value="name_desc">Z-A (Reverse)</option>
+                        <option value="newest">Newest First</option>
+                        <option value="oldest">Oldest First</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Active Filters Tags -->
+            <div class="active-filters" id="activeFilters"></div>
+
+            <!-- Recipe Grid -->
+            <div class="recipes-grid" id="recipesGrid">
+                <!-- Loading skeleton -->
+                <div class="loading-skeleton">
+                    <div class="skeleton-card"></div>
+                    <div class="skeleton-card"></div>
+                    <div class="skeleton-card"></div>
+                    <div class="skeleton-card"></div>
+                </div>
+            </div>
+
+            <!-- No Results Message -->
+            <div class="no-results" id="noResults" style="display: none;">
+                <i class="fas fa-search"></i>
+                <h3>No recipes found</h3>
+                <p>Try adjusting your filters or search terms</p>
+                <button class="btn-clear-filters" onclick="clearAllFilters()">Clear All Filters</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-to-top" id="scrollToTop" aria-label="Scroll to top">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section footer-brand">
+                <div class="footer-logo">
+                    <i class="fas fa-utensils"></i>
+                    <span>MealPlanner</span>
+                </div>
+                <p class="footer-tagline">Your personalized path to healthy eating. Plan your week, discover new
+                    recipes, and achieve your goals.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <a href="index.html">Home</a>
+                <a href="recipes.html">Recipes</a>
+                <a href="meal-planner.html">Meal Planner</a>
+                <a href="favorites.html">Favorites</a>
+                <a href="about.html">About</a>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <div class="social-links">
+                    <a href="#" aria-label="Facebook" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" aria-label="Twitter" class="social-icon"><i class="fab fa-twitter"></i></a>
+                    <a href="#" aria-label="Instagram" class="social-icon"><i class="fab fa-instagram"></i></a>
+                    <a href="#" aria-label="Pinterest" class="social-icon"><i class="fab fa-pinterest-p"></i></a>
+                    <a href="#" aria-label="YouTube" class="social-icon"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Newsletter</h3>
+                <p class="newsletter-text">Subscribe to get weekly meal plans and recipe updates.</p>
+                <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Thank you for subscribing!');">
+                    <input type="email" placeholder="Enter your email" class="newsletter-input" required>
+                    <button type="submit" class="newsletter-btn">
+                        <span>Subscribe</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 MealPlanner. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="auth.js"></script>
+    <script src="recipes.js"></script>
+</body>
+
+</html>

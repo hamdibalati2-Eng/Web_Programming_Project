@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - MealPlanner</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .about-hero {
+            padding: 8rem 2rem 4rem;
+            text-align: center;
+            background: linear-gradient(180deg, rgba(20, 184, 166, 0.1) 0%, transparent 100%);
+        }
+
+        .about-hero h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(135deg, #14b8a6, #10b981);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .about-hero p {
+            font-size: 1.25rem;
+            color: #334155;
+            max-width: 800px;
+            margin: 0 auto;
+            line-height: 1.6;
+            font-weight: 500;
+        }
+
+        .about-section {
+            padding: 4rem 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .about-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .about-card {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 2.5rem;
+            border-radius: 24px;
+            border: 1px solid rgba(20, 184, 166, 0.2);
+            transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        }
+
+        .about-card:hover {
+            transform: translateY(-5px);
+            border-color: #14b8a6;
+        }
+
+        .about-card i {
+            font-size: 2.5rem;
+            color: #14b8a6;
+            margin-bottom: 1.5rem;
+        }
+
+        .about-card h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #1e293b;
+        }
+
+        .about-card p {
+            color: #475569;
+            line-height: 1.6;
+            font-weight: 500;
+        }
+
+        .stats-section {
+            padding: 4rem 2rem;
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(10px);
+            text-align: center;
+            border-top: 1px solid rgba(20, 184, 166, 0.1);
+            border-bottom: 1px solid rgba(20, 184, 166, 0.1);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .stat-item h3 {
+            font-size: 2.5rem;
+            color: #14b8a6;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-item p {
+            color: #334155;
+            font-weight: 600;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="header-top">
+            <div class="logo">
+                <i class="fas fa-utensils"></i>
+                <span>MealPlanner</span>
+            </div>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <nav class="main-nav">
+                <a href="index.html">Home</a>
+                <a href="recipes.html">Recipes</a>
+                <a href="meal-planner.html">Meal Planner</a>
+                <a href="shopping-list.html">Shopping List</a>
+                <a href="profile.html" id="profileLink" style="display: none;">Profile</a>
+                <a href="favorites.html" id="favoritesLink" style="display: none;">
+                    <i class="fas fa-heart"></i> Favorites
+                </a>
+            </nav>
+            <div class="auth-buttons" id="authButtons">
+                <button class="btn-login" onclick="window.location.href='login.html'">Login</button>
+                <button class="btn-signup" onclick="window.location.href='register.html'">Sign Up</button>
+            </div>
+            <div class="user-menu" id="userMenu" style="display: none;">
+                <span id="userNameDisplay"></span>
+                <a href="profile.html" class="btn-profile">Profile</a>
+                <button class="btn-logout" id="logoutBtn">Logout</button>
+            </div>
+        </div>
+    </header>
+
+    <section class="about-hero">
+        <h1>Our Mission</h1>
+        <p>We believe that healthy eating should be simple, accessible, and enjoyable for everyone. Our platform is
+            designed to take the stress out of meal planning.</p>
+    </section>
+
+    <section class="about-section">
+        <div class="about-grid">
+            <div class="about-card">
+                <i class="fas fa-heartbeat"></i>
+                <h2>Health First</h2>
+                <p>Curated recipes that prioritize nutrition without compromising on flavor. We help you meet your
+                    dietary goals seamlessly.</p>
+            </div>
+            <div class="about-card">
+                <i class="fas fa-magic"></i>
+                <h2>Smart Planning</h2>
+                <p>Our intelligent meal planner learns your preferences and suggests recipes that fit your lifestyle and
+                    schedule.</p>
+            </div>
+            <div class="about-card">
+                <i class="fas fa-users"></i>
+                <h2>Community Driven</h2>
+                <p>Join thousands of users who share their culinary discoveries and support each other on their health
+                    journeys.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="stats-section">
+        <div class="stats-grid">
+            <div class="stat-item">
+                <h3>10k+</h3>
+                <p>Healthy Recipes</p>
+            </div>
+            <div class="stat-item">
+                <h3>50k+</h3>
+                <p>Active Users</p>
+            </div>
+            <div class="stat-item">
+                <h3>1M+</h3>
+                <p>Meals Planned</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section footer-brand">
+                <div class="footer-logo">
+                    <i class="fas fa-utensils"></i>
+                    <span>MealPlanner</span>
+                </div>
+                <p class="footer-tagline">Your personalized path to healthy eating. Plan your week, discover new
+                    recipes, and achieve your goals.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <a href="index.html">Home</a>
+                <a href="recipes.html">Recipes</a>
+                <a href="meal-planner.html">Meal Planner</a>
+                <a href="favorites.html">Favorites</a>
+                <a href="about.html">About</a>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <div class="social-links">
+                    <a href="#" aria-label="Facebook" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" aria-label="Twitter" class="social-icon"><i class="fab fa-twitter"></i></a>
+                    <a href="#" aria-label="Instagram" class="social-icon"><i class="fab fa-instagram"></i></a>
+                    <a href="#" aria-label="Pinterest" class="social-icon"><i class="fab fa-pinterest-p"></i></a>
+                    <a href="#" aria-label="YouTube" class="social-icon"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Newsletter</h3>
+                <p class="newsletter-text">Subscribe to get weekly meal plans and recipe updates.</p>
+                <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Thank you for subscribing!');">
+                    <input type="email" placeholder="Enter your email" class="newsletter-input" required>
+                    <button type="submit" class="newsletter-btn">
+                        <span>Subscribe</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 MealPlanner. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="auth.js"></script>
+    <script>
+        // Update navigation and auth UI based on user state
+        document.addEventListener('DOMContentLoaded', () => {
+            const user = JSON.parse(localStorage.getItem('currentUser'));
+            if (user) {
+                document.getElementById('profileLink').style.display = 'block';
+                document.getElementById('favoritesLink').style.display = 'block';
+                document.getElementById('authButtons').style.display = 'none';
+                document.getElementById('userMenu').style.display = 'flex';
+                document.getElementById('userNameDisplay').textContent = user.name;
+            }
+        });
+    </script>
+</body>
+
+</html>

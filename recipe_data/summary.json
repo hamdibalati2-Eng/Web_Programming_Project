@@ -1,0 +1,11 @@
+{
+  "total_recipes": 0,
+  "categories": [
+    "sweet"
+  ],
+  "recipes_per_category": {
+    "sweet": 0
+  },
+  "output_directory": "recipe_data",
+  "images_directory": "recipe_images"
+}

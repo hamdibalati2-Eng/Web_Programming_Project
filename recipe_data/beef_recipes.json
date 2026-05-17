@@ -1,0 +1,563 @@
+[
+  {
+    "id": "53281",
+    "name": "Algerian Kefta (Meatballs)",
+    "category": "Beef",
+    "area": "Algerian",
+    "instructions": "Combine ground beef with 1/2 of the minced garlic and 1 tablespoon chopped onion in a large bowl. Mix with your hands until fully incorporated. Shape meat mixture into 1 1/2-inch oblong patties; you should have 12 to 14 meatballs.\r\n\r\nHeat a large skillet over medium-high heat. Brown patties in batches in the hot skillet until crispy on both sides and no longer pink in the center, about 10 minutes. Set meatballs aside in a rimmed serving dish.\r\n\r\nReduce heat to medium and stir remaining chopped onion into drippings in the skillet. Season with salt and pepper. Cook, stirring constantly, until onion has softened and turned translucent, about 5 minutes. Stir in remaining garlic and cook for 30 seconds. Stir in Roma tomatoes, dried parsley, and ras el hanout. Pour in water. Cook until tomatoes are soft, about 5 minutes.\r\n\r\nPour tomato sauce over meatballs to serve.",
+    "image": "recipe_images/53281.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/8rfd4q1764112993.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=IRadJQNLvPs",
+    "ingredients": [
+      {
+        "ingredient": "Ground Beef",
+        "measure": "1 lb"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "4 Cloves Crushed"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Plum Tomatoes",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "1/2 cup"
+      }
+    ],
+    "source": "https://www.allrecipes.com/recipe/153790/algerian-kefta-meatballs/"
+  },
+  {
+    "id": "53334",
+    "name": "Arepa Pabellón",
+    "category": "Beef",
+    "area": "Venezulan",
+    "instructions": "Prepare the meat in a skillet and add salt and pepper to taste, heat the beans over medium heat in a pan, fry or grill the ripe plantains as indicated on its package and cut the tomato into small cubes. Reserve these ingredients until filling. \r\nPreheat the grill or pan and grill the arepa, putting it once on each side until they are golden brown. \r\nWith the help of a knife, open it by the edge through the middle, creating a space to fill it with the ripe plantain, the beans, meat and chopped tomato. \r\nServe with a little pico de gallo or guacamole dip sauce. ",
+    "image": "recipe_images/53334.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/13fg4j1764441982.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/shorts/Tb1PPOyqthA",
+    "ingredients": [
+      {
+        "ingredient": "Corn Arepa Filled With Mozarella Cheese",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Fried Ripe Bananas",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Black Beans",
+        "measure": "1 Can"
+      },
+      {
+        "ingredient": "Pico De Gallo Sauce",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Shredded Meat",
+        "measure": "2kg"
+      },
+      {
+        "ingredient": "Tomato",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "Pinch"
+      }
+    ],
+    "source": "https://goya.es/en/recipes/arepa-rellena-con-carne-frijol-y-madurito"
+  },
+  {
+    "id": "53329",
+    "name": "Arepa pelua",
+    "category": "Beef",
+    "area": "Venezulan",
+    "instructions": "Cook the meat: Place the flank steak in a pot with broth or water and salt. Cook over low heat for about 2 hours, until tender and easy to shred.\r\nShred the meat: Once cooked, drain and shred the meat using two forks.\r\nPrepare the vegetables: Sauté chopped onion, bell pepper, and garlic in a little oil. Add cumin, oregano, paprika, and salt. Stir in the meat and cook for a few minutes until the flavors are well combined.\r\nMake the dough: In a bowl, mix the cornmeal with warm water and salt until a soft dough forms. Let it rest for 5 minutes.\r\nForm the arepas: Divide the dough into 6 portions, shape into balls, and flatten into thick discs.\r\nCook: Cook the arepas on a griddle or skillet over medium heat for 2–3 minutes on each side until golden. You can then bake them for a few minutes if you prefer them crispier.\r\nFill: Slice the arepas open on one side, fill with the hot shredded beef, and top with grated cheese.",
+    "image": "recipe_images/53329.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/jgl9qq1764437635.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=bSWoRyWI6Fo",
+    "ingredients": [
+      {
+        "ingredient": "Beef",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Red Pepper",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "Cumin",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Oregano",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Beef Stock",
+        "measure": "1 L"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "2 1/2 cups"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Cheese",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Extra Virgin Olive Oil",
+        "measure": "Pinch"
+      }
+    ],
+    "source": "https://goya.es/en/recipes/arepa-pelua"
+  },
+  {
+    "id": "53133",
+    "name": "Asado",
+    "category": "Beef",
+    "area": "Argentinian",
+    "instructions": "Prepare the Fire: Start a wood fire in your grill and let it burn down to coals.\r\nSeason the Meat: Generously salt the beef cuts.\r\nGrill the Meat: Place the beef on the grill, starting with the thickest cuts farthest from the coals. Add chorizo and morcilla after the beef has been cooking for a while.\r\nCook to Perfection: Cook the meat, turning occasionally, until it reaches your desired doneness. Typically, ribs may take up to 2 hours; thinner cuts will cook faster.\r\nRest and Serve: Let the meat rest for about 10 minutes before slicing. Serve with chimichurri sauce and grilled vegetables.\r\nPro Tips:\r\n\r\nUse a mix of wood and charcoal for a consistent heat source. Wood adds flavor, while charcoal maintains temperature.\r\nSeason the meat just before grilling to ensure it retains its moisture and flavor.\r\nServing Suggestions:\r\n\r\nServe with a side of chimichurri sauce, a fresh tomato salad, and crusty bread. Pair with a robust Malbec wine to complement the rich flavors of the meat.",
+    "image": "recipe_images/53133.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/kgfh3q1763075438.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=q5f6Z6i1hQ8",
+    "ingredients": [
+      {
+        "ingredient": "Mixed Beef Cuts",
+        "measure": "2kg"
+      },
+      {
+        "ingredient": "Chorizo",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Morcilla",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      }
+    ],
+    "source": "https://www.munchery.com/blog/the-ten-iconic-dishes-of-argentina-and-how-to-cook-them-at-home/"
+  },
+  {
+    "id": "53099",
+    "name": "Aussie Burgers",
+    "category": "Beef",
+    "area": "Australian",
+    "instructions": "step 1\r\nMake the burgers: Tip the meat into a bowl and sprinkle over 1 tsp salt and a good grinding of black pepper.Work with wet hands to mix in the seasoning. Divide into four with your hands and shape into burgers. (It can be frozen at this stage.)\r\n\r\nstep 2\r\nSort out your ingredients: Slice the beetroot and split the naan breads.\r\n\r\nstep 3\r\nToast the naans: Heat a griddle pan or barbecue. Griddle the naans on both sides until lightly toasted and set aside. Add the burgers to the grill or barbecue and cook for 2-3 minutes, then turn and cook the other side for a further 2-3 minutes.\r\n\r\nstep 4\r\nAssemble the dish: Set half a toasted naan on each serving plate and put a pile of rocket on each. Top with a burger, then a few slices of beetroot and a dollop of soured cream. Sprinkle with salt and freshly ground black pepper and serve immediately with a big green salad and chips. A glass of red wine wouldn’t go amiss, either.",
+    "image": "recipe_images/53099.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/44bzep1761848278.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=pSupybydA_U",
+    "ingredients": [
+      {
+        "ingredient": "Lean Minced Steak",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "Cooked Beetroot",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Naan Bread",
+        "measure": "2 small"
+      },
+      {
+        "ingredient": "Rocket",
+        "measure": "50g"
+      },
+      {
+        "ingredient": "Soured cream and chive dip",
+        "measure": "4 tablespoons"
+      }
+    ],
+    "source": "https://www.bbcgoodfood.com/recipes/aussie-burgers"
+  },
+  {
+    "id": "52874",
+    "name": "Beef and Mustard Pie",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Preheat the oven to 150C/300F/Gas 2.\r\nToss the beef and flour together in a bowl with some salt and black pepper.\r\nHeat a large casserole until hot, add half of the rapeseed oil and enough of the beef to just cover the bottom of the casserole.\r\nFry until browned on each side, then remove and set aside. Repeat with the remaining oil and beef.\r\nReturn the beef to the pan, add the wine and cook until the volume of liquid has reduced by half, then add the stock, onion, carrots, thyme and mustard, and season well with salt and pepper.\r\nCover with a lid and place in the oven for two hours.\r\nRemove from the oven, check the seasoning and set aside to cool. Remove the thyme.\r\nWhen the beef is cool and you're ready to assemble the pie, preheat the oven to 200C/400F/Gas 6.\r\nTransfer the beef to a pie dish, brush the rim with the beaten egg yolks and lay the pastry over the top. Brush the top of the pastry with more beaten egg.\r\nTrim the pastry so there is just enough excess to crimp the edges, then place in the oven and bake for 30 minutes, or until the pastry is golden-brown and cooked through.\r\nFor the green beans, bring a saucepan of salted water to the boil, add the beans and cook for 4-5 minutes, or until just tender.\r\nDrain and toss with the butter, then season with black pepper.\r\nTo serve, place a large spoonful of pie onto each plate with some green beans alongside.",
+    "image": "recipe_images/52874.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg",
+    "tags": [
+      "Meat",
+      "Pie"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=nMyBC9staMU",
+    "ingredients": [
+      {
+        "ingredient": "Beef",
+        "measure": "1kg"
+      },
+      {
+        "ingredient": "Plain Flour",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Rapeseed Oil",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Red Wine",
+        "measure": "200ml"
+      },
+      {
+        "ingredient": "Beef Stock",
+        "measure": "400ml"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 finely sliced"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "2 chopped"
+      },
+      {
+        "ingredient": "Thyme",
+        "measure": "3 sprigs"
+      },
+      {
+        "ingredient": "Mustard",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Egg Yolks",
+        "measure": "2 free-range"
+      },
+      {
+        "ingredient": "Puff Pastry",
+        "measure": "400g"
+      },
+      {
+        "ingredient": "Green Beans",
+        "measure": "300g"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "25g"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "pinch"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "pinch"
+      }
+    ],
+    "source": "https://www.bbc.co.uk/food/recipes/beef_and_mustard_pie_58002"
+  },
+  {
+    "id": "52878",
+    "name": "Beef and Oyster pie",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Season the beef cubes with salt and black pepper. Heat a tablespoon of oil in the frying pan and fry the meat over a high heat. Do this in three batches so that you don’t overcrowd the pan, transferring the meat to a large flameproof casserole dish once it is browned all over. Add extra oil if the pan seems dry.\r\nIn the same pan, add another tablespoon of oil and cook the shallots for 4-5 minutes, then add the garlic and fry for 30 seconds. Add the bacon and fry until slightly browned. Transfer the onion and bacon mixture to the casserole dish and add the herbs.\r\nPreheat the oven to 180C/350F/Gas 4.\r\nPour the stout into the frying pan and bring to the boil, stirring to lift any stuck-on browned bits from the bottom of the pan. Pour the stout over the beef in the casserole dish and add the stock. Cover the casserole and place it in the oven for 1½-2 hours, or until the beef is tender and the sauce is reduced.\r\nSkim off any surface fat, taste and add salt and pepper if necessary, then stir in the cornflour paste. Put the casserole dish on the hob – don’t forget that it will be hot – and simmer for 1-2 minutes, stirring, until thickened. Leave to cool.\r\nIncrease the oven to 200C/400F/Gas 6. To make the pastry, put the flour and salt in a very large bowl. Grate the butter and stir it into the flour in three batches. Gradually add 325ml/11fl oz cold water – you may not need it all – and stir with a round-bladed knife until the mixture just comes together. Knead the pastry lightly into a ball on a lightly floured surface and set aside 250g/9oz for the pie lid.\r\nRoll the rest of the pastry out until about 2cm/¾in larger than the dish you’re using. Line the dish with the pastry then pile in the filling, tucking the oysters in as well. Brush the edge of the pastry with beaten egg.\r\nRoll the remaining pastry until slightly larger than your dish and gently lift over the filling, pressing the edges firmly to seal, then trim with a sharp knife. Brush with beaten egg to glaze. Put the dish on a baking tray and bake for 25-30 minutes, or until the pastry is golden-brown and the filling is bubbling.",
+    "image": "recipe_images/52878.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg",
+    "tags": [
+      "Pie"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=ONX74yP6JnI",
+    "ingredients": [
+      {
+        "ingredient": "Beef",
+        "measure": "900g"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "3 tbs"
+      },
+      {
+        "ingredient": "Shallots",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "2 cloves minced"
+      },
+      {
+        "ingredient": "Bacon",
+        "measure": "125g"
+      },
+      {
+        "ingredient": "Thyme",
+        "measure": "1 tbs chopped"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Stout",
+        "measure": "330ml"
+      },
+      {
+        "ingredient": "Beef Stock",
+        "measure": "400ml"
+      },
+      {
+        "ingredient": "Corn Flour",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Oysters",
+        "measure": "8"
+      },
+      {
+        "ingredient": "Plain Flour",
+        "measure": "400g"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "pinch"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "To Glaze"
+      }
+    ],
+    "source": "https://www.bbc.co.uk/food/recipes/beef_and_oyster_pie_65230"
+  },
+  {
+    "id": "53071",
+    "name": "Beef Asado",
+    "category": "Beef",
+    "area": "Filipino",
+    "instructions": "0.\tCombine beef, crushed peppercorn, soy sauce, vinegar, dried bay leaves, lemon, and tomato sauce. Mix well. Marinate beef for at least 30 minutes.\r\n1.\tPut the marinated beef in a cooking pot along with remaining marinade. Add water. Let boil.\r\n2.\tAdd Knorr Beef Cube. Stir. Cover the pot and cook for 40 minutes in low heat.\r\n3.\tTurn the beef over. Add tomato paste. Continue cooking until beef tenderizes. Set aside.\r\n4.\tHeat oil in a pan. Fry the potato until it browns. Turn over and continue frying the opposite side. Remove from the pan and place on a clean plate. Do the same with the carrots.\r\n5.\tSave 3 tablespoons of cooking oil from the pan where the potato was fried. Saute onion and garlic until onion softens.\r\n6.\tPour-in the sauce from the beef stew. Let boil. Add the beef. Cook for 2 minutes.\r\n7.\tAdd butter and let it melt. Continue cooking until the sauce reduces to half.",
+    "image": "recipe_images/53071.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=lNlK8DVhXXA",
+    "ingredients": [
+      {
+        "ingredient": "Beef",
+        "measure": "1.5kg"
+      },
+      {
+        "ingredient": "Beef Stock Concentrate",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Tomato Puree",
+        "measure": "8 ounces"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "Soy Sauce",
+        "measure": "6 tablespoons"
+      },
+      {
+        "ingredient": "White Wine Vinegar",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Lemon",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "Tomato Sauce",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "3 tbs"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "4 cloves"
+      }
+    ],
+    "source": "https://panlasangpinoy.com/beef-asado/"
+  },
+  {
+    "id": "52997",
+    "name": "Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",
+    "category": "Beef",
+    "area": "Vietnamese",
+    "instructions": "Add'l ingredients: mayonnaise, siracha\r\n\r\n1\r\n\r\nPlace rice in a fine-mesh sieve and rinse until water runs clear. Add to a small pot with 1 cup water (2 cups for 4 servings) and a pinch of salt. Bring to a boil, then cover and reduce heat to low. Cook until rice is tender, 15 minutes. Keep covered off heat for at least 10 minutes or until ready to serve.\r\n\r\n2\r\n\r\nMeanwhile, wash and dry all produce. Peel and finely chop garlic. Zest and quarter lime (for 4 servings, zest 1 lime and quarter both). Trim and halve cucumber lengthwise; thinly slice crosswise into half-moons. Halve, peel, and medium dice onion. Trim, peel, and grate carrot.\r\n\r\n3\r\n\r\nIn a medium bowl, combine cucumber, juice from half the lime, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. In a small bowl, combine mayonnaise, a pinch of garlic, a squeeze of lime juice, and as much sriracha as you’d like. Season with salt and pepper.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add onion and cook, stirring, until softened, 4-5 minutes. Add beef, remaining garlic, and 2 tsp sugar (4 tsp for 4 servings). Cook, breaking up meat into pieces, until beef is browned and cooked through, 4-5 minutes. Stir in soy sauce. Turn off heat; taste and season with salt and pepper.\r\n\r\n5\r\n\r\nFluff rice with a fork; stir in lime zest and 1 TBSP butter. Divide rice between bowls. Arrange beef, grated carrot, and pickled cucumber on top. Top with a squeeze of lime juice. Drizzle with sriracha mayo.",
+    "image": "recipe_images/52997.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/z0ageb1583189517.jpg",
+    "tags": [],
+    "youtube": "",
+    "ingredients": [
+      {
+        "ingredient": "Rice",
+        "measure": "White"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Cucumber",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "3 oz"
+      },
+      {
+        "ingredient": "Ground Beef",
+        "measure": "1 lb"
+      },
+      {
+        "ingredient": "Soy Sauce",
+        "measure": "2 oz"
+      }
+    ],
+    "source": ""
+  },
+  {
+    "id": "52904",
+    "name": "Beef Bourguignon",
+    "category": "Beef",
+    "area": "French",
+    "instructions": "Heat a large casserole pan and add 1 tbsp goose fat. Season the beef and fry until golden brown, about 3-5 mins, then turn over and fry the other side until the meat is browned all over, adding more fat if necessary. Do this in 2-3 batches, transferring the meat to a colander set over a bowl when browned.\r\nIn the same pan, fry the bacon, shallots or pearl onions, mushrooms, garlic and bouquet garni until lightly browned. Mix in the tomato purée and cook for a few mins, stirring into the mixture. This enriches the bourguignon and makes a great base for the stew. Then return the beef and any drained juices to the pan and stir through.\r\nPour over the wine and about 100ml water so the meat bobs up from the liquid, but isn’t completely covered. Bring to the boil and use a spoon to scrape the caramelised cooking juices from the bottom of the pan – this will give the stew more flavour.\r\nHeat oven to 150C/fan 130C/gas 2. Make a cartouche: tear off a square of foil slightly larger than the casserole, arrange it in the pan so it covers the top of the stew and trim away any excess foil. Then cook for 3 hrs. If the sauce looks watery, remove the beef and veg with a slotted spoon, and set aside. Cook the sauce over a high heat for a few mins until the sauce has thickened a little, then return the beef and vegetables to the pan.\r\nTo make the celeriac mash, peel the celeriac and cut into cubes. Heat the olive oil in a large frying pan. Tip in the celeriac and fry for 5 mins until it turns golden. Season well with salt and pepper. Stir in the rosemary, thyme, bay and cardamom pods, then pour over 200ml water, enough to nearly cover the celeriac. Turn the heat to low, partially cover the pan and leave to simmer for 25-30 mins.\r\nAfter 25-30 mins, the celeriac should be soft and most of the water will have evaporated. Drain away any remaining water, then remove the herb sprigs, bay and cardamom pods. Lightly crush with a potato masher, then finish with a glug of olive oil and season to taste. Spoon the beef bourguignon into serving bowls and place a large spoonful of the celeriac mash on top. Garnish with one of the bay leaves, if you like.",
+    "image": "recipe_images/52904.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=SQnr4Z-7rok",
+    "ingredients": [
+      {
+        "ingredient": "Goose Fat",
+        "measure": "3 tsp"
+      },
+      {
+        "ingredient": "Beef Shin",
+        "measure": "600g"
+      },
+      {
+        "ingredient": "Bacon",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Challots",
+        "measure": "350g"
+      },
+      {
+        "ingredient": "Chestnut Mushroom",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "2 sliced"
+      },
+      {
+        "ingredient": "Bouquet Garni",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Tomato Puree",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Red Wine",
+        "measure": "750 ml"
+      },
+      {
+        "ingredient": "Celeriac",
+        "measure": "600g"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Thyme",
+        "measure": "sprigs of fresh"
+      },
+      {
+        "ingredient": "Rosemary",
+        "measure": "sprigs of fresh"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Cardamom",
+        "measure": "4"
+      }
+    ],
+    "source": "https://www.bbcgoodfood.com/recipes/5032/beef-bourguignon"
+  }
+]

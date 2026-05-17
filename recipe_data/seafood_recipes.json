@@ -1,0 +1,599 @@
+[
+  {
+    "id": "53147",
+    "name": "Arroz con gambas y calamar",
+    "category": "Seafood",
+    "area": "Spanish",
+    "instructions": "step 1\r\nPeel and devein most of the prawns (a fishmonger should be able to do this for you), keeping a few whole for decoration, if you like. Heat the olive oil in a large frying pan or shallow flameproof casserole over a medium-low heat and fry the onion for 5 mins until softened. Add the bay leaf, saffron, rice and tomato purée, and cook for 1-2 mins more, stirring.\r\n\r\nstep 2\r\nPour in the wine and bubble for 1-2 mins, then pour in the seafood stock and 150ml water. Cook for 5 mins, then add the squid, season well and stir to combine. Bring to the boil, then cover and reduce the heat to a gentle simmer. Cook for 12 mins more, adding a little more water if the mixture starts to look dry.\r\n\r\nstep 3\r\nUncover the pan and stir through the peeled prawns, then arrange any whole prawns on top of the rice mixture. Cover again and simmer for a further 5-6 mins until the prawns are pink and cooked through. Leave to stand for a couple of minutes before serving from the pan.",
+    "image": "recipe_images/53147.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/jc6oub1763196663.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=nFFp0ebOlOo",
+    "ingredients": [
+      {
+        "ingredient": "Raw King Prawns",
+        "measure": "24"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 small"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Saffron",
+        "measure": "1 pinch"
+      },
+      {
+        "ingredient": "Paella Rice",
+        "measure": "450g"
+      },
+      {
+        "ingredient": "Tomato Puree",
+        "measure": "2 teaspoons"
+      },
+      {
+        "ingredient": "White Wine",
+        "measure": "200ml"
+      },
+      {
+        "ingredient": "Seafood stock",
+        "measure": "650ml"
+      },
+      {
+        "ingredient": "Squid",
+        "measure": "3 Medium"
+      }
+    ],
+    "source": "https://www.bbcgoodfood.com/recipes/arroz-con-gambas-y-calamar"
+  },
+  {
+    "id": "52959",
+    "name": "Baked salmon with fennel & tomatoes",
+    "category": "Seafood",
+    "area": "British",
+    "instructions": "Heat oven to 180C/fan 160C/gas 4. Trim the fronds from the fennel and set aside. Cut the fennel bulbs in half, then cut each half into 3 wedges. Cook in boiling salted water for 10 mins, then drain well. Chop the fennel fronds roughly, then mix with the parsley and lemon zest.\r\n\r\nSpread the drained fennel over a shallow ovenproof dish, then add the tomatoes. Drizzle with olive oil, then bake for 10 mins. Nestle the salmon among the veg, sprinkle with lemon juice, then bake 15 mins more until the fish is just cooked. Scatter over the parsley and serve.",
+    "image": "recipe_images/52959.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+    "tags": [
+      "Paleo",
+      "Keto",
+      "HighFat",
+      "Baking",
+      "LowCarbs"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=xvPR2Tfw5k0",
+    "ingredients": [
+      {
+        "ingredient": "Fennel",
+        "measure": "2 medium"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "2 tbs chopped"
+      },
+      {
+        "ingredient": "Lemon",
+        "measure": "Juice of 1"
+      },
+      {
+        "ingredient": "Cherry Tomatoes",
+        "measure": "175g"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Salmon",
+        "measure": "350g"
+      },
+      {
+        "ingredient": "Black Olives",
+        "measure": "to serve"
+      }
+    ],
+    "source": "https://www.bbcgoodfood.com/recipes/7745/baked-salmon-with-fennel-and-tomatoes"
+  },
+  {
+    "id": "53239",
+    "name": "Bang bang prawn salad",
+    "category": "Seafood",
+    "area": "Vietnamese",
+    "instructions": "step 1\r\nCook the noodles following pack instructions, then rinse under cold water and drain thoroughly. In a small saucepan melt together the peanut butter, coconut milk, sweet chilli sauce and half the spring onions, adding 1-2 tbsp of water to loosen the mixture to a drizzling consistency.\r\n\r\nstep 2\r\nMix the noodles, cucumber and beansprouts in a serving dish. Top with the prawns, drizzle over the peanut sauce and scatter over the remaining spring onions.",
+    "image": "recipe_images/53239.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/4xcfai1763765676.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=Na-6-lzs2wU",
+    "ingredients": [
+      {
+        "ingredient": "Rice Noodles",
+        "measure": "140g"
+      },
+      {
+        "ingredient": "Peanut Butter",
+        "measure": "3 tablespoons"
+      },
+      {
+        "ingredient": "Coconut Milk",
+        "measure": "4 tablespoons"
+      },
+      {
+        "ingredient": "sweet chilli sauce",
+        "measure": "3  tablespoons"
+      },
+      {
+        "ingredient": "Spring Onions",
+        "measure": "3 sliced thinly"
+      },
+      {
+        "ingredient": "Cucumber",
+        "measure": "1 sliced"
+      },
+      {
+        "ingredient": "Bean Sprouts",
+        "measure": "300g"
+      },
+      {
+        "ingredient": "Prawns",
+        "measure": "200g"
+      }
+    ],
+    "source": "https://www.bbcgoodfood.com/recipes/bang-bang-prawn-salad"
+  },
+  {
+    "id": "53103",
+    "name": "Barramundi with Moroccan spices",
+    "category": "Seafood",
+    "area": "Australian",
+    "instructions": "step 1\r\nTip all the dressing ingredients into a food processor with a pinch of salt and blitz to a dressing. Slash the fish three times on each side, coat with half of the dressing, then set aside to marinate for about 30 mins.\r\n\r\nstep 2\r\nHeat oven to 220C/fan 200C/gas 7. Place the fish on a roasting tray, then cook in the oven for 20 mins until the flesh is firm and the eyes have turned white. Serve the fish with the rest of the dressing and steamed couscous or rice.\r\n\r\nstep 3\r\nKNOW HOW: HOW TO COOK IT: Cooking barramundi on the bone, as we have done here, has its advantages – it will stay more moist during cooking, and some would say that the flavour is enhanced, too. If you want to take out the bones they are easy to locate and less likely to be lodged in the fillet if the fish is cooked whole. Fillets can be simply pan-fried or grilled. If you like trout, you will really enjoy the flavour of barramundi, which lends itself to similar ingredients and cooking methods – citrus flavours are particularly good, as are garlic and wild mushrooms. Simply roasting the fish with some fresh herbs, olive oil and seasoning is delicious, and in the summer months you could barbecue it, too. One thing that you mustn’t miss are the cheeks or ‘pearls’ of the fish, these are simply lovely, moist and really sweet – well worth leaving the head on for!",
+    "image": "recipe_images/53103.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/4o4wh11761848573.jpg",
+    "tags": [],
+    "youtube": "",
+    "ingredients": [
+      {
+        "ingredient": "barramundi",
+        "measure": "2 x 400g"
+      },
+      {
+        "ingredient": "Ground Cumin",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "Coriander",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Chili Powder",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Lemon",
+        "measure": "Juice of 1"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "5 tablespoons"
+      },
+      {
+        "ingredient": "Coriander",
+        "measure": "Bunch"
+      }
+    ],
+    "source": "https://www.bbcgoodfood.com/recipes/barramundi-moroccan-spices"
+  },
+  {
+    "id": "52819",
+    "name": "Cajun spiced fish tacos",
+    "category": "Seafood",
+    "area": "Mexican",
+    "instructions": "Cooking in a cajun spice and cayenne pepper marinade makes this fish super succulent and flavoursome. Top with a zesty dressing and serve in a tortilla for a quick, fuss-free main that's delightfully summery.\r\n\r\nOn a large plate, mix the cajun spice and cayenne pepper with a little seasoning and use to coat the fish all over.\r\n\r\nHeat a little oil in a frying pan, add in the fish and cook over a medium heat until golden. Reduce the heat and continue frying until the fish is cooked through, about 10 minutes. Cook in batches if you don’t have enough room in the pan.\r\n\r\nMeanwhile, prepare the dressing by combining all the ingredients with a little seasoning.\r\nSoften the tortillas by heating in the microwave for 5-10 seconds. Pile high with the avocado, lettuce and spring onion, add a spoonful of salsa, top with large flakes of fish and drizzle over the dressing.",
+    "image": "recipe_images/52819.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+    "tags": [
+      "Spicy",
+      "Fish"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=N4EdUt0Ou48",
+    "ingredients": [
+      {
+        "ingredient": "cajun",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "cayenne pepper",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "white fish",
+        "measure": "4 fillets"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "flour tortilla",
+        "measure": "8"
+      },
+      {
+        "ingredient": "avocado",
+        "measure": "1 sliced"
+      },
+      {
+        "ingredient": "little gem lettuce",
+        "measure": "2 shredded"
+      },
+      {
+        "ingredient": "Spring Onions",
+        "measure": "4 shredded"
+      },
+      {
+        "ingredient": "salsa",
+        "measure": "1 x 300ml"
+      },
+      {
+        "ingredient": "sour cream",
+        "measure": "1 pot"
+      },
+      {
+        "ingredient": "lemon",
+        "measure": "1"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "1 clove finely chopped"
+      }
+    ],
+    "source": "https://realfood.tesco.com/recipes/cajun-spiced-fish-tacos.html"
+  },
+  {
+    "id": "53154",
+    "name": "Clam, chorizo & white bean stew",
+    "category": "Seafood",
+    "area": "Spanish",
+    "instructions": "step 1\r\nFry the chorizo in a large frying pan with a lid, over a medium heat until it is starting to crisp up and release its oil. Add the onion and cook for 5 mins until starting to soften. Then add the garlic and finely chopped parsley, and fry for 1 min more.\r\n\r\nstep 2\r\nPour on the stock and tomatoes. Bring to the boil, reduce the heat, then add the beans and sherry vinegar. Simmer for 10 mins until the liquid is slightly reduced.\r\n\r\nstep 3\r\nScatter over the clams, cover with the lid and steam for 2-4 mins, shaking the pan occasionally until the clams are open. Have a little taste before seasoning, as the clams can be quite salty. Then scatter over the chopped parsley. Eat with lots of crusty bread.",
+    "image": "recipe_images/53154.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/92wbmf1763252334.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=IoRuT7TxDAo",
+    "ingredients": [
+      {
+        "ingredient": "Chorizo",
+        "measure": "50g"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "Bunch"
+      },
+      {
+        "ingredient": "Vegetable Stock",
+        "measure": "200ml"
+      },
+      {
+        "ingredient": "Tinned Tomatos",
+        "measure": "400g"
+      },
+      {
+        "ingredient": "Butter Beans",
+        "measure": "400g"
+      },
+      {
+        "ingredient": "Sherry vinegar",
+        "measure": "1 teaspoon"
+      },
+      {
+        "ingredient": "Clams",
+        "measure": "600g"
+      },
+      {
+        "ingredient": "Crusty Bread",
+        "measure": "To serve"
+      }
+    ],
+    "source": "https://www.bbcgoodfood.com/recipes/clam-chorizo-white-bean-stew"
+  },
+  {
+    "id": "52944",
+    "name": "Escovitch Fish",
+    "category": "Seafood",
+    "area": "Jamaican",
+    "instructions": "Rinse fish; rub with lemon or lime, seasoned with salt and pepper or use your favorite seasoning. I used creole seasoning. Set aside or place in the oven to keep it warm until sauce is ready.\r\n\r\nIn large skillet heat oil over medium heat, until hot, add the fish, cook each side- for about 5-7 minutes until cooked through and crispy on both sides. Remove fish and set aside. Drain oil and leave about 2-3 tablespoons of oil\r\nAdd, bay leave, garlic and ginger, stir-fry for about a minute making sure the garlic does not burn\r\nThen add onion, bell peppers, thyme, scotch bonnet, sugar, all spice-continue stirring for about 2-3 minutes. Add vinegar, mix an adjust salt and pepper according to preference. Let it simmer for about 2 more minutes. \r\n\r\nDiscard bay leave, thyme spring and serve over fish with a side of this bammy. You may make the sauce about 2 days in advance.",
+    "image": "recipe_images/52944.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+    "tags": [
+      "Seafood",
+      "Spicy",
+      "Speciality",
+      "Easter"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=nF6DOtGE6k8",
+    "ingredients": [
+      {
+        "ingredient": "Red Snapper",
+        "measure": "2 Pounds"
+      },
+      {
+        "ingredient": "Vegetable Oil",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "1 clove peeled crushed"
+      },
+      {
+        "ingredient": "Ginger",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Thyme",
+        "measure": "2 sprigs"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Red Pepper",
+        "measure": "0.5"
+      },
+      {
+        "ingredient": "Yellow Pepper",
+        "measure": "0.5"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 sliced"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Allspice",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Worcestershire Sauce",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Scotch Bonnet",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Malt Vinegar",
+        "measure": "3/4 cup"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "pinch"
+      }
+    ],
+    "source": "https://www.africanbites.com/jamaican-escovitched-fish/"
+  },
+  {
+    "id": "53043",
+    "name": "Fish fofos",
+    "category": "Seafood",
+    "area": "Portuguese",
+    "instructions": "STEP 1\r\n\r\nPut the fish into a lidded pan and pour over enough water to cover. Bring to a simmer and gently poach for 10 minutes over a low heat with the lid on. Drain and flake the fish.\r\n\r\nSTEP 2\r\n\r\nPut the fish, potato, green chilli, coriander, cumin, black pepper, garlic and ginger in a large bowl. Season, add the rice flour, mix well and break in 1 egg. Stir the mixture and divide into 15, then form into small logs. Break the remaining eggs into a bowl and whisk lightly. Put the breadcrumbs into another bowl. Dip each fofo in the beaten egg followed by the breadcrumb mixture. Chill for 20 minutes.\r\n\r\nSTEP 3\r\n\r\nHeat 1cm of oil in a large frying pan over a medium heat. Fry the fofos in batches for 2 minutes on each side, turning gently to get an even golden brown colour all over. Drain on kitchen paper and repeat with the remaining fofos.\r\n\r\nSTEP 4\r\n\r\nFor the onion salad, mix together the onion, coriander and lemon juice with a pinch of salt. Serve with the fofos and mango chutney.",
+    "image": "recipe_images/53043.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=YXUZHK2PrV8",
+    "ingredients": [
+      {
+        "ingredient": "Haddock",
+        "measure": "600g"
+      },
+      {
+        "ingredient": "Potatoes",
+        "measure": "300g"
+      },
+      {
+        "ingredient": "Green Chilli",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Coriander",
+        "measure": "3 tbs"
+      },
+      {
+        "ingredient": "Cumin Seeds",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "3 cloves"
+      },
+      {
+        "ingredient": "Ginger",
+        "measure": "2 pieces"
+      },
+      {
+        "ingredient": "Flour",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Breadcrumbs",
+        "measure": "75g"
+      },
+      {
+        "ingredient": "Vegetable Oil",
+        "measure": "For frying"
+      }
+    ],
+    "source": "https://www.olivemagazine.com/recipes/fish-and-seafood/fish-fofos/"
+  },
+  {
+    "id": "52802",
+    "name": "Fish pie",
+    "category": "Seafood",
+    "area": "British",
+    "instructions": "01.Put the potatoes in a large pan of cold salted water and bring to the boil. Lower the heat, cover, then simmer gently for 15 minutes until tender. Drain, then return to the pan over a low heat for 30 seconds to drive off any excess water. Mash with 1 tbsp olive oil, then season.\r\n02.Meanwhile put the milk in a large sauté pan, add the fish and bring to the boil. Remove from the heat, cover and stand for 3 minutes. Remove the fish (reserving the milk) and pat dry with kitchen paper, then gently flake into an ovenproof dish, discarding the skin and any bones.\r\n03.Heat the remaining oil in a pan, stir in the flour and cook for 30 seconds. Gradually stir in 200-250ml of the reserved milk (discard the rest). Grate in nutmeg, season, then bubble until thick. Stir in the cream.\r\n04.Preheat the oven to 190°C/fan170°C/gas 5. Grate the artichokes and add to the dish with the leek, prawns and herbs. Stir the lemon zest and juice into the sauce, then pour over. Mix gently with a wooden spoon.\r\n05.Spoon the mash onto the fish mixture, then use a fork to make peaks, which will crisp and brown as it cooks. Sprinkle over the cheese, then bake for 35-40 minutes until golden and bubbling. Serve with wilted greens.",
+    "image": "recipe_images/52802.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+    "tags": [
+      "Fish",
+      "Pie",
+      "Breakfast",
+      "Baking"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=2sX4fCgg-UI",
+    "ingredients": [
+      {
+        "ingredient": "Floury Potatoes",
+        "measure": "900g"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Semi-skimmed Milk",
+        "measure": "600ml"
+      },
+      {
+        "ingredient": "White Fish Fillets",
+        "measure": "800g"
+      },
+      {
+        "ingredient": "Plain flour",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Nutmeg",
+        "measure": "Grating"
+      },
+      {
+        "ingredient": "Double Cream",
+        "measure": "3 tbsp"
+      },
+      {
+        "ingredient": "Jerusalem Artichokes",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Leek",
+        "measure": "1 finely sliced"
+      },
+      {
+        "ingredient": "Prawns",
+        "measure": "200g peeled raw"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "Large handful"
+      },
+      {
+        "ingredient": "Dill",
+        "measure": "Handful"
+      },
+      {
+        "ingredient": "Lemon",
+        "measure": "Grated zest of 1"
+      },
+      {
+        "ingredient": "Gruyère",
+        "measure": "25g grated"
+      },
+      {
+        "ingredient": "Lemon",
+        "measure": "Juice of 1"
+      }
+    ],
+    "source": ""
+  },
+  {
+    "id": "53079",
+    "name": "Fish Soup (Ukha)",
+    "category": "Seafood",
+    "area": "Russian",
+    "instructions": "In a medium pot, heat the olive oil over medium-high heat. Add the onions and cook, stirring occasionally until the onions start to caramelize. Add the carrots and cook until the carrots start to soften, about 4 more minutes.\r\nAdd the stock, water, potatoes, bay leaves, and black peppercorns. Season with salt and bring to a boil. Reduce heat, cover and cook for 10 minutes. Add the millet and cook for 15 more minutes until millet and potatoes are cooked.\r\nGently add the fish cubes. Stir and bring the soup to a simmer. The fish will cook through very fast, so make sure to not overcook them. They are done when the flesh is opaque and flakes easily.\r\nGarnish the soup with chopped fresh dill or parsley before serving.",
+    "image": "recipe_images/53079.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+    "tags": [
+      "Soup"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=cS3Yn-y5uVg",
+    "ingredients": [
+      {
+        "ingredient": "Olive Oil",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 sliced"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "2 medium"
+      },
+      {
+        "ingredient": "Fish Stock",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "Potatoes",
+        "measure": "4 large"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Cod",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Salmon",
+        "measure": "1"
+      }
+    ],
+    "source": "https://www.curiouscuisiniere.com/ukha-russian-fish-soup/"
+  }
+]

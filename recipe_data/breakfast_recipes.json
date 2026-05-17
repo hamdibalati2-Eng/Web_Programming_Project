@@ -1,0 +1,478 @@
+[
+  {
+    "id": "53076",
+    "name": "Bread omelette",
+    "category": "Breakfast",
+    "area": "Indian",
+    "instructions": "Make and enjoy",
+    "image": "recipe_images/53076.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg",
+    "tags": [],
+    "youtube": "",
+    "ingredients": [
+      {
+        "ingredient": "Bread",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "0.5"
+      }
+    ],
+    "source": ""
+  },
+  {
+    "id": "52965",
+    "name": "Breakfast Potatoes",
+    "category": "Breakfast",
+    "area": "Canadian",
+    "instructions": "Before you do anything, freeze your bacon slices that way when you're ready to prep, it'll be so much easier to chop!\r\nWash the potatoes and cut medium dice into square pieces. To prevent any browning, place the already cut potatoes in a bowl filled with water.\r\nIn the meantime, heat 1-2 tablespoons of oil in a large skillet over medium-high heat. Tilt the skillet so the oil spreads evenly.\r\nOnce the oil is hot, drain the potatoes and add to the skillet. Season with salt, pepper, and Old Bay as needed.\r\nCook for 10 minutes, stirring the potatoes often, until brown. If needed, add a tablespoon more of oil.\r\nChop up the bacon and add to the potatoes. The bacon will start to render and the fat will begin to further cook the potatoes. Toss it up a bit! The bacon will take 5-6 minutes to crisp.\r\nOnce the bacon is cooked, reduce the heat to medium-low, add the minced garlic and toss. Season once more. Add dried or fresh parsley. Control heat as needed.\r\nLet the garlic cook until fragrant, about one minute.\r\nJust before serving, drizzle over the maple syrup and toss. Let that cook another minute, giving the potatoes a caramelized effect.\r\nServe in a warm bowl with a sunny side up egg!",
+    "image": "recipe_images/52965.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
+    "tags": [
+      "Breakfast",
+      "Brunch"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=BoD0TIO9nE4",
+    "ingredients": [
+      {
+        "ingredient": "Potatoes",
+        "measure": "3 Medium"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Bacon",
+        "measure": "2 strips"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "Minced"
+      },
+      {
+        "ingredient": "Maple Syrup",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "Garnish"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Allspice",
+        "measure": "To taste"
+      }
+    ],
+    "source": "http://www.vodkaandbiscuits.com/2014/03/06/bangin-breakfast-potatoes/"
+  },
+  {
+    "id": "52895",
+    "name": "English Breakfast",
+    "category": "Breakfast",
+    "area": "British",
+    "instructions": "Heat the flat grill plate over a low heat, on top of 2 rings/flames if it fits, and brush sparingly with light olive oil.\r\nCook the sausages first. Add the sausages to the hot grill plate/the coolest part if there is one and allow to cook slowly for about 15-20 minutes, turning occasionally, until golden. After the first 10 minutes, increase the heat to medium before beginning to cook the other ingredients. If you are struggling for space, completely cook the sausages and keep hot on a plate in the oven.\r\nSnip a few small cuts into the fatty edge of the bacon. Place the bacon straight on to the grill plate and fry for 2-4 minutes each side or until your preferred crispiness is reached. Like the sausages, the cooked bacon can be kept hot on a plate in the oven.\r\nFor the mushrooms, brush away any dirt using a pastry brush and trim the stalk level with the mushroom top. Season with salt and pepper and drizzle over a little olive oil. Place stalk-side up on the grill plate and cook for 1-2 minutes before turning and cooking for a further 3-4 minutes. Avoid moving the mushrooms too much while cooking, as this releases the natural juices, making them soggy.\r\nFor the tomatoes, cut the tomatoes across the centre/or in half lengthways if using plum tomatoes , and with a small, sharp knife remove the green 'eye'. Season with salt and pepper and drizzle with a little olive oil. Place cut-side down on the grill plate and cook without moving for 2 minutes. Gently turn over and season again. Cook for a further 2-3 minutes until tender but still holding their shape.\r\nFor the black pudding, cut the black pudding into 3-4 slices and remove the skin. Place on the grill plate and cook for 1½-2 minutes each side until slightly crispy.\r\nFor 'proper' fried bread it's best to cook it in a separate pan. Ideally, use bread that is a couple of days old. Heat a frying pan to a medium heat and cover the base with oil. Add the bread and cook for 2-3 minutes each side until crispy and golden. If the pan becomes too dry, add a little more oil. For a richer flavour, add a knob of butter after you turn the slice.\r\nFor the fried eggs, break the egg straight into the pan with the fried bread and leave for 30 seconds. Add a good knob of butter and lightly splash/baste the egg with the butter when melted. Cook to your preferred stage, season and gently remove with a fish slice.\r\nOnce all the ingredients are cooked, serve on warm plates and enjoy straight away with a good squeeze of tomato ketchup or brown sauce.",
+    "image": "recipe_images/52895.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/utxryw1511721587.jpg",
+    "tags": [
+      "Breakfast"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=FXjYU2Ensck",
+    "ingredients": [
+      {
+        "ingredient": "Sausages",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Bacon",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Mushrooms",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Tomatoes",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Black Pudding",
+        "measure": "1 Slice"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Bread",
+        "measure": "1 Slice"
+      }
+    ],
+    "source": "https://www.bbc.co.uk/food/recipes/stressfreefullenglis_67721"
+  },
+  {
+    "id": "52957",
+    "name": "Fruit and Cream Cheese Breakfast Pastries",
+    "category": "Breakfast",
+    "area": "American",
+    "instructions": "Preheat oven to 400ºF (200ºC), and prepare two cookie sheets with parchment paper. In a bowl, mix cream cheese, sugar, and vanilla until fully combined. Lightly flour the surface and roll out puff pastry on top to flatten. Cut each sheet of puff pastry into 9 equal squares. On the top right and bottom left of the pastry, cut an L shape approximately ½ inch (1 cm) from the edge.\r\nNOTE: This L shape should reach all the way down and across the square, however both L shapes should not meet at the ends. Your pastry should look like a picture frame with two corners still intact.\r\nTake the upper right corner and fold down towards the inner bottom corner. You will now have a diamond shape.\r\nPlace 1 to 2 teaspoons of the cream cheese filling in the middle, then place berries on top.\r\nRepeat with the remaining pastry squares and place them onto the parchment covered baking sheet.\r\nBake for 15-20 minutes or until pastry is golden brown and puffed.\r\nEnjoy!\r\n",
+    "image": "recipe_images/52957.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/1543774956.jpg",
+    "tags": [
+      "Breakfast",
+      "Summer"
+    ],
+    "youtube": "",
+    "ingredients": [
+      {
+        "ingredient": "Cream Cheese",
+        "measure": "1 1/4 oz"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1 1/4 cup"
+      },
+      {
+        "ingredient": "Vanilla Extract",
+        "measure": "1 teaspoon"
+      },
+      {
+        "ingredient": "Flour",
+        "measure": ""
+      },
+      {
+        "ingredient": "Puff Pastry",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Strawberries",
+        "measure": ""
+      },
+      {
+        "ingredient": "Raspberries",
+        "measure": ""
+      },
+      {
+        "ingredient": "Blackberries",
+        "measure": ""
+      }
+    ],
+    "source": ""
+  },
+  {
+    "id": "52896",
+    "name": "Full English Breakfast",
+    "category": "Breakfast",
+    "area": "British",
+    "instructions": "Heat the flat grill plate over a low heat, on top of 2 rings/flames if it fits, and brush sparingly with light olive oil.\r\nCook the sausages first. Add the sausages to the hot grill plate/the coolest part if there is one and allow to cook slowly for about 15-20 minutes, turning occasionally, until golden. After the first 10 minutes, increase the heat to medium before beginning to cook the other ingredients. If you are struggling for space, completely cook the sausages and keep hot on a plate in the oven.\r\nSnip a few small cuts into the fatty edge of the bacon. Place the bacon straight on to the grill plate and fry for 2-4 minutes each side or until your preferred crispiness is reached. Like the sausages, the cooked bacon can be kept hot on a plate in the oven.\r\nFor the mushrooms, brush away any dirt using a pastry brush and trim the stalk level with the mushroom top. Season with salt and pepper and drizzle over a little olive oil. Place stalk-side up on the grill plate and cook for 1-2 minutes before turning and cooking for a further 3-4 minutes. Avoid moving the mushrooms too much while cooking, as this releases the natural juices, making them soggy.\r\nFor the tomatoes, cut the tomatoes across the centre/or in half lengthways if using plum tomatoes , and with a small, sharp knife remove the green 'eye'. Season with salt and pepper and drizzle with a little olive oil. Place cut-side down on the grill plate and cook without moving for 2 minutes. Gently turn over and season again. Cook for a further 2-3 minutes until tender but still holding their shape.\r\nFor the black pudding, cut the black pudding into 3-4 slices and remove the skin. Place on the grill plate and cook for 1½-2 minutes each side until slightly crispy.\r\nFor 'proper' fried bread it's best to cook it in a separate pan. Ideally, use bread that is a couple of days old. Heat a frying pan to a medium heat and cover the base with oil. Add the bread and cook for 2-3 minutes each side until crispy and golden. If the pan becomes too dry, add a little more oil. For a richer flavour, add a knob of butter after you turn the slice.\r\nFor the fried eggs, break the egg straight into the pan with the fried bread and leave for 30 seconds. Add a good knob of butter and lightly splash/baste the egg with the butter when melted. Cook to your preferred stage, season and gently remove with a fish slice.\r\nOnce all the ingredients are cooked, serve on warm plates and enjoy straight away with a good squeeze of tomato ketchup or brown sauce.",
+    "image": "recipe_images/52896.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/sqrtwu1511721265.jpg",
+    "tags": [
+      "Greasy",
+      "UnHealthy",
+      "HangoverFood",
+      "Calorific",
+      "Breakfast",
+      "BBQ"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=FXjYU2Ensck",
+    "ingredients": [
+      {
+        "ingredient": "Sausages",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Bacon",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Mushrooms",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Tomatoes",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Black Pudding",
+        "measure": "2 sliced"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Bread",
+        "measure": "1 Slice"
+      },
+      {
+        "ingredient": "Baked Beans",
+        "measure": "100g"
+      }
+    ],
+    "source": "https://www.bbc.co.uk/food/recipes/stressfreefullenglis_67721"
+  },
+  {
+    "id": "52967",
+    "name": "Home-made Mandazi",
+    "category": "Breakfast",
+    "area": "Kenyan",
+    "instructions": "This is one recipe a lot of people have requested and I have tried to make it as simple as possible and I hope it will work for you. Make sure you use the right flour which is basically one with raising agents. Adjust the amount of sugar to your taste and try using different flavours to have variety whenever you have them.\r\nYou can use Coconut milk instead of regular milk, you can also add desiccated coconut to the dry flour or other spices like powdered cloves or cinnamon.\r\nFor “healthy looking” mandazis do not roll the dough too thin before frying and use the procedure I have indicated above.\r\n\r\n1. Mix the flour,cinnamon and sugar in a suitable bowl.\r\n2. In a separate bowl whisk the egg into the milk\r\n3. Make a well at the centre of the flour and add the milk and egg mixture and slowly mix to form a dough.\r\n4. Knead the dough for 3-4 minutes or until it stops sticking to the sides of the bowl and you have a smooth surface.\r\n5. Cover the dough with a damp cloth  and allow to rest for 15 minutes.\r\n6. Roll the dough on a lightly floured surface into a 1cm thick piece.\r\n7. Using a sharp small knife, cut the dough into the desired size setting aside ready for deep frying.\r\n8. Heat your oil in a suitable pot and gently dip the mandazi pieces to cook until light brown on the first side then turn to cook on the second side.\r\n9. Serve them warm or cold",
+    "image": "recipe_images/52967.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg",
+    "tags": [
+      "Baking",
+      "Breakfast",
+      "Egg",
+      "Warm",
+      "Snack"
+    ],
+    "youtube": "",
+    "ingredients": [
+      {
+        "ingredient": "Self-raising Flour",
+        "measure": "750g"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "6 tablespoons"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "1 cup"
+      }
+    ],
+    "source": "http://chef-raphael.com/home-made-mandazi-recipe/#more-106"
+  },
+  {
+    "id": "53331",
+    "name": "Oatmeal pancakes",
+    "category": "Breakfast",
+    "area": "Venezulan",
+    "instructions": "Place all the ingredients in the glass and beat.\r\nLet the mixture stand for 10 minutes.\r\nGrease a hot frying pan with a little butter and pour a little of the mixture.\r\nWhen it starts to bubble on the surface, turn over with a spatula. Cook over medium-low heat so that they do not burn.\r\nFinally, add the caramel and strawberries.",
+    "image": "recipe_images/53331.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/c400ok1764439058.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=kkrRFWN4LG4",
+    "ingredients": [
+      {
+        "ingredient": "Egg",
+        "measure": "1 medium"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "80 ml"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Vanilla Extract",
+        "measure": "1 dash"
+      },
+      {
+        "ingredient": "Ground Oats",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Sugar Syrup",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Strawberries",
+        "measure": "3"
+      }
+    ],
+    "source": "https://goya.es/en/recipes/oatmeal-pancakes"
+  },
+  {
+    "id": "53118",
+    "name": "Rømmegrøt – Norwegian Sour Cream Porridge",
+    "category": "Breakfast",
+    "area": "Norwegian",
+    "instructions": "▢\r\nCook the sour cream in a covered saucepan on medium heat for about 5 minutes.\r\n▢\r\nTurn down the heat and add half of the flour and stir well with a whisk. Once the flour is fully incorporated, let the mixture continue to cook, stirring occasionally, until fat starts to release. Use a spoon to gather as much of the fat as you can in a small bowl, saving for later. (Don't worry if you can't get any fat – in that case you can add butter later.)\r\n▢\r\nWhisk in the rest of the flour and then slowly add the milk, whisking constantly to avoid lumps. Let the porridge continue to cook on low heat for 5 minutes and then add salt.\r\n▢\r\nServe with sugar, cinnamon, and the fat from the porridge. If you're using lower fat sour cream you can top the rømmegrøt with some butter instead.",
+    "image": "recipe_images/53118.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/hyk47c1762772689.jpg",
+    "tags": [],
+    "youtube": "https://www.youtube.com/watch?v=v4rIJOWXM3w",
+    "ingredients": [
+      {
+        "ingredient": "Full fat sour cream",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Flour",
+        "measure": "3/4 cup"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "Sprinkling"
+      },
+      {
+        "ingredient": "Cinnamon",
+        "measure": "Sprinkling"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "To taste"
+      }
+    ],
+    "source": "https://scandinaviancookbook.com/rommegrot-norwegian-sour-cream-porridge/"
+  },
+  {
+    "id": "52962",
+    "name": "Salmon Eggs Eggs Benedict",
+    "category": "Breakfast",
+    "area": "American",
+    "instructions": "First make the Hollandaise sauce. Put the lemon juice and vinegar in a small bowl, add the egg yolks and whisk with a balloon whisk until light and frothy. Place the bowl over a pan of simmering water and whisk until mixture thickens. Gradually add the butter, whisking constantly until thick – if it looks like it might be splitting, then whisk off the heat for a few mins. Season and keep warm.\r\n\r\nTo poach the eggs, bring a large pan of water to the boil and add the vinegar. Lower the heat so that the water is simmering gently. Stir the water so you have a slight whirlpool, then slide in the eggs one by one. Cook each for about 4 mins, then remove with a slotted spoon.\r\n\r\nLightly toast and butter the muffins, then put a couple of slices of salmon on each half. Top each with an egg, spoon over some Hollandaise and garnish with chopped chives.",
+    "image": "recipe_images/52962.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/1550440197.jpg",
+    "tags": [
+      "Bun",
+      "Brunch"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=Woiiet4vQ58",
+    "ingredients": [
+      {
+        "ingredient": "Eggs",
+        "measure": "4"
+      },
+      {
+        "ingredient": "White Wine Vinegar",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "English Muffins",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "To serve"
+      },
+      {
+        "ingredient": "Smoked Salmon",
+        "measure": "8 slices"
+      },
+      {
+        "ingredient": "Lemon Juice",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "White Wine Vinegar",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "3 Yolkes"
+      },
+      {
+        "ingredient": "Unsalted Butter",
+        "measure": "125g"
+      }
+    ],
+    "source": "https://www.bbcgoodfood.com/recipes/73606/eggs-benedict-with-smoked-salmon-and-chives"
+  },
+  {
+    "id": "52964",
+    "name": "Smoked Haddock Kedgeree",
+    "category": "Breakfast",
+    "area": "Indian",
+    "instructions": "Melt 50g butter in a large saucepan (about 20cm across), add 1 finely chopped medium onion and cook gently over a medium heat for 5 minutes, until softened but not browned.\r\n\r\nStir in 3 split cardamom pods, ¼ tsp turmeric, 1 small cinnamon stick and 2 bay leaves, then cook for 1 minute.\r\n\r\nTip in 450g basmati rice and stir until it is all well coated in the spicy butter.\r\n\r\nPour in 1 litre chicken or fish stock, add ½ teaspoon salt and bring to the boil, stir once to release any rice from the bottom of the pan. Cover with a close-fitting lid, reduce the heat to low and leave to cook very gently for 12 minutes.\r\n\r\nMeanwhile, bring some water to the boil in a large shallow pan. Add 750g un-dyed smoked haddock fillet and simmer for 4 minutes, until the fish is just cooked. Lift it out onto a plate and leave until cool enough to handle.\r\n\r\nHard-boil 3 eggs for 8 minutes.\r\n\r\nFlake the fish, discarding any skin and bones. Drain the eggs, cool slightly, then peel and chop. \r\n\r\nUncover the rice and remove the bay leaves, cinnamon stick and cardamom pods if you wish to. Gently fork in the fish and the chopped eggs, cover again and return to the heat for 2-3 minutes, or until the fish has heated through.\r\n\r\nGently stir in almost all the 3 tbsp chopped fresh parsley, and season with a little salt and black pepper to taste. Serve scattered with the remaining parsley and garnished with 1 lemon, cut into wedges.",
+    "image": "recipe_images/52964.jpg",
+    "image_url": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+    "tags": [
+      "Brunch",
+      "Fish",
+      "Fusion"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=QqdzDCWS4gQ",
+    "ingredients": [
+      {
+        "ingredient": "Butter",
+        "measure": "50g"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Cardamom",
+        "measure": "3 Pods"
+      },
+      {
+        "ingredient": "Turmeric",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Cinnamon Stick",
+        "measure": "1 small"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "Sprigs of fresh"
+      },
+      {
+        "ingredient": "Basmati Rice",
+        "measure": "450g"
+      },
+      {
+        "ingredient": "Chicken Stock",
+        "measure": "1 Litre"
+      },
+      {
+        "ingredient": "Smoked Haddock",
+        "measure": "750g"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "3 tblsp chopped"
+      },
+      {
+        "ingredient": "Lemon",
+        "measure": "1 chopped"
+      }
+    ],
+    "source": "https://www.bbcgoodfood.com/recipes/2256/smoked-haddock-kedgeree"
+  }
+]

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorites - MealPlanner</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="recipes.css">
+    <style>
+        .favorites-page {
+            min-height: 100vh;
+            padding: 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .favorites-header {
+            margin-bottom: 2rem;
+        }
+
+        .favorites-header h1 {
+            color: #14b8a6;
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .favorites-header p {
+            color: #64748b;
+            font-size: 1.1rem;
+        }
+
+        .empty-favorites {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: #64748b;
+        }
+
+        .empty-favorites i {
+            font-size: 4rem;
+            color: #cbd5e1;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="header-top">
+            <div class="logo">
+                <i class="fas fa-utensils"></i>
+                <span>MealPlanner</span>
+            </div>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <nav class="main-nav">
+                <a href="index.html" data-page="home">Home</a>
+                <a href="recipes.html" data-page="recipes">Recipes</a>
+                <a href="meal-planner.html" data-page="planner">Meal Planner</a>
+                <a href="shopping-list.html" data-page="shopping">Shopping List</a>
+                <a href="profile.html" data-page="profile" id="profileLink" style="display: none;">Profile</a>
+                <a href="favorites.html" data-page="favorites" id="favoritesLink" style="display: none;" class="active">
+                    <i class="fas fa-heart"></i> Favorites
+                    <span id="favoritesCount" style="display: none;"></span>
+                </a>
+            </nav>
+            <div class="auth-buttons" id="authButtons">
+                <button class="btn-login">Login</button>
+                <button class="btn-signup">Sign Up</button>
+            </div>
+            <div class="user-menu" id="userMenu" style="display: none;">
+                <span id="userNameDisplay"></span>
+                <a href="profile.html" class="btn-profile">Profile</a>
+                <button class="btn-logout" id="logoutBtn">Logout</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="favorites-page">
+        <div class="favorites-header">
+            <h1><i class="fas fa-heart"></i> My Favorite Recipes</h1>
+            <p>All your saved favorite recipes in one place</p>
+        </div>
+
+        <div id="favoritesGrid" class="recipes-grid"></div>
+
+        <div id="emptyFavorites" class="empty-favorites" style="display: none;">
+            <i class="far fa-heart"></i>
+            <h2>No favorites yet</h2>
+            <p>Start adding recipes to your favorites to see them here!</p>
+            <a href="recipes.html"
+                style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background: linear-gradient(135deg, #14b8a6, #10b981); color: white; text-decoration: none; border-radius: 10px; font-weight: 600; transition: all 0.3s ease;">Browse
+                Recipes</a>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section footer-brand">
+                <div class="footer-logo">
+                    <i class="fas fa-utensils"></i>
+                    <span>MealPlanner</span>
+                </div>
+                <p class="footer-tagline">Your personalized path to healthy eating. Plan your week, discover new
+                    recipes, and achieve your goals.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <a href="index.html">Home</a>
+                <a href="recipes.html">Recipes</a>
+                <a href="meal-planner.html">Meal Planner</a>
+                <a href="favorites.html">Favorites</a>
+                <a href="about.html">About</a>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <div class="social-links">
+                    <a href="#" aria-label="Facebook" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" aria-label="Twitter" class="social-icon"><i class="fab fa-twitter"></i></a>
+                    <a href="#" aria-label="Instagram" class="social-icon"><i class="fab fa-instagram"></i></a>
+                    <a href="#" aria-label="Pinterest" class="social-icon"><i class="fab fa-pinterest-p"></i></a>
+                    <a href="#" aria-label="YouTube" class="social-icon"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Newsletter</h3>
+                <p class="newsletter-text">Subscribe to get weekly meal plans and recipe updates.</p>
+                <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Thank you for subscribing!');">
+                    <input type="email" placeholder="Enter your email" class="newsletter-input" required>
+                    <button type="submit" class="newsletter-btn">
+                        <span>Subscribe</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 MealPlanner. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="auth.js"></script>
+    <script src="favorites.js"></script>
+</body>
+
+</html>
