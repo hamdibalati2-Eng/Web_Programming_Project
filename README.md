@@ -170,11 +170,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 👨‍💻 Author
-**Hamdi Balati**
-- GitHub : [Hamdi Balati](https://github.com/hamdibalati2-Eng))
-**Aabd2017**
-- GitHub: [@AbdAlrahman-Sec](https://github.com/AbdAlrahman-Sec))
+## 👨‍💻 Authors
+
+### Hamdi Balati
+- GitHub: [@hamdibalati2-Eng](https://github.com/hamdibalati2-Eng)
+
+### AbdAlrahman
+- GitHub: [@AbdAlrahman-Sec](https://github.com/AbdAlrahman-Sec)
 
 ## 🙏 Acknowledgments
 
