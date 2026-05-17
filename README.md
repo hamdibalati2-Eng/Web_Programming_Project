@@ -172,9 +172,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👨‍💻 Author
 **Hamdi Balati**
-- GitHub : [
+- GitHub : [Hamdi Balati](https://github.com/hamdibalati2-Eng))
 **Aabd2017**
-
 - GitHub: [@AbdAlrahman-Sec](https://github.com/AbdAlrahman-Sec))
 
 ## 🙏 Acknowledgments
